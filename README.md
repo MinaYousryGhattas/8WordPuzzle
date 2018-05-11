@@ -1,3 +1,5 @@
+# 8 Word Puzzle
+
 Enter 8 Words and use AI techniques to check possible arrangements to form a puzzle 
 
 
